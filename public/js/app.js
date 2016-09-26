@@ -1,0 +1,1 @@
+angular.module('StarterApp', ['StarterApp.controllers']);
